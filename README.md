@@ -1,13 +1,7 @@
 ## IAW-Práctica02
-<<<<<<< HEAD
 > IES Celia Viñas (Almería) - Curso 2020/2021 
 > Módulo: IAW - Implantación de Aplicaciones Web 
 > Ciclo: CFGS Administración de Sistemas Informáticos en Red 
-=======
-> IES Celia Viñas (Almería) - Curso 2020/2021  
-> Módulo: IAW - Implantación de Aplicaciones Web  
-> Ciclo: CFGS Administración de Sistemas Informáticos en Red  
->>>>>>> af50ed0acfa7df027ec12587397349acdf46f8fb
 ### Implantación de una aplicación web LAMP en Amazon Web Services (AWS)
 Contenido de la práctica 02 de IAW, instalación de pila lamp en **AWS**:
 
